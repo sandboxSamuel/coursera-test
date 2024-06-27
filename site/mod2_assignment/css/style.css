@@ -26,7 +26,7 @@ section {
 
 div {
   position: relative;
-  background-color: gray;
+  background-color: rgb(211, 193, 193);
   border: 1px solid black;
   width: 100%;
   margin-left: auto;
@@ -77,7 +77,7 @@ div {
   }
 }
 
-.s1 {
+.one {
   float: right;
   width: 100px;
   padding: 5px;
@@ -88,7 +88,7 @@ div {
   font-weight: bold;
   background-color: tomato;
 }
-.s2 {
+.two {
   float: right;
   color: black;
   width: 100px;
@@ -100,7 +100,7 @@ div {
   font-weight: bold;
   background-color: red;
 }
-.s3 {
+.three {
   color: black;
   float: right;
   width: 100px;
@@ -115,7 +115,7 @@ div {
 .content {
   padding: 5px;
   border: none;
-  background-color: gray;
+  background-color: rgb(211, 193, 193);
   font-family: Helvetica;
   color: black;
   margin: 0px;
