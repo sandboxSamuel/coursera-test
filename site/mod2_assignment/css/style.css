@@ -29,6 +29,10 @@ p {
   width: 100%;
 }
 
+.title {
+  float: right;
+}
+
 /********** Desktop Layout **********/
 @media (min-width: 992px) {
   .col-lg-1,
