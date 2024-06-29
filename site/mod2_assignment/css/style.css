@@ -8,10 +8,10 @@ body {
 h1 {
   margin: 10px;
   text-align: center;
-  font-family: Helvetica;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: bold;
   font-size: 175%;
-  color: red;
+  color: black;
 }
 section {
   position: relative;
@@ -41,7 +41,6 @@ div {
   .col-lg-4,
   .col-lg-12 {
     float: left;
-    /* border: 1px solid green; */
   }
 
   .col-lg-4 {
@@ -58,7 +57,7 @@ div {
   .col-md-6,
   .col-md-12 {
     float: left;
-    border: 1px solid green;
+    
   }
   .col-md-6 {
     width: 50%;
@@ -73,7 +72,7 @@ div {
   .col-sm-12 {
     float: left;
     width: 100%;
-    border: 1px solid green;
+        
   }
 }
 
@@ -86,7 +85,7 @@ div {
   text-align: center;
   font-size: 125%;
   font-weight: bold;
-  background-color: tomato;
+  background-color: whitesmoke;
 }
 .two {
   float: right;
@@ -110,13 +109,13 @@ div {
   text-align: center;
   font-size: 125%;
   font-weight: bold;
-  background-color: yellow;
+  background-color: salmon;
 }
 .content {
   padding: 5px;
   border: none;
   background-color: rgb(211, 193, 193);
-  font-family: Helvetica;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: black;
   margin: 0px;
   height: 200px;
