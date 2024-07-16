@@ -23,6 +23,8 @@
 // (Note, Step 6 will be done in the SpeakGoodBye.js file.)
 // xxxx.xxxx = helloSpeaker;
 
+// Making an update to code to try and get it to work on gitHub
+
 (function (window) {
 
  var helloSpeaker = {};
